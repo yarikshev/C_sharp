@@ -1,0 +1,108 @@
+<!-- Писать в строгом порядке-->
+<rules>
+<lexeme name=",">	
+	<clearto include="false">(</clearto> <!-- по идее до выталкивает read & write -->
+	<push>true</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>pushOperation</poliz>
+</lexeme>
+<lexeme name="write">	
+	<clearto include="true">null</clearto>
+	<push>false</push>
+	<addToPoliz>true</addToPoliz>
+	<labels>0</labels>
+	<poliz>operation write</poliz>
+</lexeme>	
+<lexeme name="read">	
+	<clearto include="true">null</clearto>
+	<push>false</push>
+	<addToPoliz>true</addToPoliz>
+	<labels>0</labels>
+	<poliz>operation read</poliz>
+</lexeme>
+<lexeme name="=">	
+	<clearto include="true">null</clearto>
+	<push>true</push>
+	<addToPoliz>true</addToPoliz>
+	<labels>0</labels>
+	<poliz>rememberL</poliz>
+</lexeme>
+<lexeme name="for">	
+	<clearto include="true">null</clearto>
+	<push>true</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>3</labels>
+	<poliz>cells 3</poliz> <!-- что бы не создавать новое поле под ячейки (это в полиз не пишется)-->
+</lexeme>
+<lexeme name="to">	
+	<clearto include="false">for</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>_r 3 1 = _m 3 : _r 1</poliz>
+</lexeme>
+<lexeme name="step">	
+	<clearto include="false">for</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>= _r 2</poliz>
+</lexeme>
+<lexeme name="do">	
+	<clearto include="false">for</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>= _r 3 0 == _m 2 UPL _l _l _r 2 + = _m 2 :  _r 3 0 = _l _r 1 - _r 2 * 0 &lt;= _m 1 UPL</poliz>
+</lexeme>
+<lexeme name="next">	
+	<clearto include="true">for</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>_m 3 BP _m 1 : popcell popLabel</poliz>
+</lexeme>
+<lexeme name="(">	
+	<clearto include="true">null</clearto>
+	<push>true</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>null</poliz>
+</lexeme>
+<lexeme name=")">	
+	<clearto include="true">(</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>null</poliz>
+</lexeme>	
+<lexeme name="if">	
+	<clearto include="true">null</clearto>
+	<push>true</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>2</labels>
+	<poliz>null</poliz>
+</lexeme>
+<lexeme name="then">	
+	<clearto include="false">if</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>_m 2 UPL</poliz>
+</lexeme>
+<lexeme name="else">	
+	<clearto include="false">if</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>_m 1 BP _m 2 :</poliz>
+</lexeme>
+<lexeme name="endif">	
+	<clearto include="true">if</clearto>
+	<push>false</push>
+	<addToPoliz>false</addToPoliz>
+	<labels>0</labels>
+	<poliz>_m 1 : popLabel</poliz>
+</lexeme>
+</rules>

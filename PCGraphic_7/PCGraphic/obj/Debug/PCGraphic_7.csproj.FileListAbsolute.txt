@@ -1,0 +1,39 @@
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe.config
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.pdb
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csprojResolveAssemblyReference.cache
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic.MainWindow.resources
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.Properties.Resources.resources
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csproj.GenerateResource.Cache
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.exe
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.pdb
+C:\Users\Шевченко\AppData\Roaming\Skype\My Skype Received Files\Projects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe.config
+C:\Users\Шевченко\AppData\Roaming\Skype\My Skype Received Files\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.exe
+C:\Users\Шевченко\AppData\Roaming\Skype\My Skype Received Files\Projects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.pdb
+E:\graphics\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe.config
+E:\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.exe
+E:\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.pdb
+E:\graphics\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe
+E:\graphics\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.pdb
+E:\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csprojResolveAssemblyReference.cache
+E:\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic.MainWindow.resources
+E:\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.Properties.Resources.resources
+E:\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csproj.GenerateResource.Cache
+E:\diskE\graphics\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe.config
+E:\diskE\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.exe
+E:\diskE\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.pdb
+E:\diskE\graphics\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe
+E:\diskE\graphics\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.pdb
+E:\diskE\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csprojResolveAssemblyReference.cache
+E:\diskE\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic.MainWindow.resources
+E:\diskE\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.Properties.Resources.resources
+E:\diskE\graphics\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csproj.GenerateResource.Cache
+E:\gitprojects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe.config
+E:\gitprojects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.exe
+E:\gitprojects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.pdb
+E:\gitprojects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.exe
+E:\gitprojects\PCGraphic_7\PCGraphic\bin\Debug\PCGraphic_7.pdb
+E:\gitprojects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csprojResolveAssemblyReference.cache
+E:\gitprojects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic.MainWindow.resources
+E:\gitprojects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.Properties.Resources.resources
+E:\gitprojects\PCGraphic_7\PCGraphic\obj\Debug\PCGraphic_7.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\Compiler\Compiler\bin\Debug\Compiler.exe.config
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\Compiler\Compiler\bin\Debug\Compiler.exe
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\Compiler\Compiler\bin\Debug\Compiler.pdb
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\Compiler\Compiler\obj\Debug\Compiler.exe
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\Compiler\Compiler\obj\Debug\Compiler.pdb

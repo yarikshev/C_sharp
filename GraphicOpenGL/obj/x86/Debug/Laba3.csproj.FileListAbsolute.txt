@@ -1,0 +1,81 @@
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\Laba3.exe
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\Laba3.pdb
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.dll
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.WinForms.dll
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.pdb
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.xml
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\bin\Debug\SharpGL.WinForms.xml
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\obj\x86\Debug\Laba3.Properties.Resources.resources
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\obj\x86\Debug\Laba3.SharpGLForm.resources
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\obj\x86\Debug\Laba3.csproj.GenerateResource.Cache
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\obj\x86\Debug\Laba3.exe
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\obj\x86\Debug\Laba3.pdb
+C:\Users\MyPC\Documents\Visual Studio 2013\Projects\GeametricData\Laba3\obj\x86\Debug\Laba3.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\obj\x86\Debug\Laba3.exe
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\obj\x86\Debug\Laba3.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\SharpGL.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\SharpGL.xml
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\obj\x86\Debug\Laba3.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\obj\x86\Debug\Laba3.Properties.Resources.resources
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\obj\x86\Debug\Laba3.SharpGLForm.resources
+C:\Users\Yaroslavchyk\Desktop\Laba3\Laba3\obj\x86\Debug\Laba3.csproj.GenerateResource.Cache
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\obj\x86\Debug\Laba3.exe
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\obj\x86\Debug\Laba3.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\Laba3.exe
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\SharpGL.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\SharpGL.xml
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\obj\x86\Debug\Laba3.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\obj\x86\Debug\Laba3.Properties.Resources.resources
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\obj\x86\Debug\Laba3.SharpGLForm.resources
+C:\Users\Yaroslavchyk\Desktop\Laba4\Laba3\obj\x86\Debug\Laba3.csproj.GenerateResource.Cache
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\obj\x86\Debug\Laba3.exe
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\obj\x86\Debug\Laba3.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\Laba3.exe
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\SharpGL.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\SharpGL.xml
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\obj\x86\Debug\Laba3.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\obj\x86\Debug\Laba3.Properties.Resources.resources
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\obj\x86\Debug\Laba3.SharpGLForm.resources
+C:\Users\Yaroslavchyk\Desktop\Laba4норм\Laba3\obj\x86\Debug\Laba3.csproj.GenerateResource.Cache
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\Laba3.exe.config
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\obj\x86\Debug\Laba3.exe
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\obj\x86\Debug\Laba3.pdb
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\Laba3.exe
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\Laba3.pdb
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\SharpGL.pdb
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\SharpGL.xml
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\SharpGL.SceneGraph.pdb
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\SharpGL.SceneGraph.xml
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\SharpGL.WinForms.pdb
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\bin\Debug\SharpGL.WinForms.xml
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\obj\x86\Debug\Laba3.csprojResolveAssemblyReference.cache
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\obj\x86\Debug\Laba3.Properties.Resources.resources
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\obj\x86\Debug\Laba3.SharpGLForm.resources
+E:\diskG\5_1\OpenGL\Laba4норм\Laba3\obj\x86\Debug\Laba3.csproj.GenerateResource.Cache
+E:\gitprojects\Laba4норм\Laba3\bin\Debug\Laba3.exe.config
+E:\gitprojects\Laba4норм\Laba3\obj\x86\Debug\Laba3.exe
+E:\gitprojects\Laba4норм\Laba3\obj\x86\Debug\Laba3.pdb

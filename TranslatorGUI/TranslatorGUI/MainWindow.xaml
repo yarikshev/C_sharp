@@ -1,0 +1,53 @@
+﻿<Window x:Class="TranslatorGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Translator" Height="500.000" Width="860.089" KeyDown="Window_KeyDown">
+    <Grid RenderTransformOrigin="0.503,0.505">
+        <Grid HorizontalAlignment="Left" Height="444" Margin="0,26,0,0" VerticalAlignment="Top" Width="852">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="284*" MinHeight="50" />
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="141*" MinHeight="50"/>
+            </Grid.RowDefinitions>
+            <RichTextBox x:Name="codePanel" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="Auto" Block.LineHeight="1" FontFamily="Consolas" FontSize="14" TextChanged="codePanel_TextChanged">
+                <RichTextBox.Background>
+                    <SolidColorBrush Color="#FFF9FAFF"/>
+                </RichTextBox.Background>
+                <FlowDocument>
+                    <Paragraph>
+                        <Run Text=""/>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+            <GridSplitter Margin="0" Grid.Row="1" ResizeDirection="Rows" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+            <RichTextBox x:Name="messagePanel" IsReadOnly="True" HorizontalAlignment="Stretch" Height="Auto" Margin="0,0,0,0" Grid.Row="2" VerticalAlignment="Stretch" Width="Auto" Background="#FFF9FAFF" FontFamily="Consolas" FontSize="14" Block.LineHeight="1">
+                <FlowDocument>
+                    <Paragraph>
+                        <Run Text=""/>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+        </Grid>
+        <Menu HorizontalAlignment="Stretch" Height="26" VerticalAlignment="Top" Width="auto">
+            <MenuItem FontSize="16" Header="File">
+                <MenuItem FontSize="14" Header="Open" Click="OpenFile_Click"/>
+                <MenuItem FontSize="14" Header="Save"/>
+            </MenuItem>
+            <MenuItem FontSize="16" Header="View">
+                <MenuItem FontSize="14" Header="Lexical analyzer">
+                    <MenuItem FontSize="14" Header="Lexemes" Click="Lexemes_Click"/>
+                </MenuItem>
+                <MenuItem FontSize="14" Header="Syntactic analyzer" Click="StackHistory_Click">
+                    <MenuItem FontSize="14" Header="Stack history"/>
+                </MenuItem>
+                <MenuItem FontSize="14" Header="Poliz generator" Click="PolizHistory_Click">
+                    <MenuItem FontSize="14" Header="Poliz history"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem x:Name="Compile" FontSize="16" Header="Compile" Click="Compile_Click"/>
+        </Menu>
+    </Grid>
+</Window>

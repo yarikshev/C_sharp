@@ -1,0 +1,13 @@
+program one varr n:long; 
+x,f,s:float beginn;
+n%5;
+weread(x);
+if[(x+1)<n ] then;
+do while[x<=n];
+s%x^2-2/x;
+f%f*s;
+x%x+1
+enddo
+endif;
+wewrite(f)
+endd.

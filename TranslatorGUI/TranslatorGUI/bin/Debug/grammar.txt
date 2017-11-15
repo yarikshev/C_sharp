@@ -1,0 +1,53 @@
+program main \n { operatorsList1 } \n
+operatorsList1 operatorsList
+operatorsList operator \n
+operatorsList operatorsList operator \n
+operator assignment
+operator input
+operator output
+operator condition
+operator cycle
+operator declarationList
+operator noaction
+noaction continue
+declarationList declaration
+declarationList declarationList declaration
+declaration type idList1
+type int
+idList1 idList
+idList , id
+idList idList , id
+assignment id = expression1
+input read ( idList1 )
+output write ( idList1 )
+cycle for id = expression1 to expression1 step expression1 do operatorsList1 next
+condition if logExpression1 then operatorsList1 else operatorsList1 endif
+logExpression1 logExpression
+logExpression logTerm1
+logExpression logMultiplier or logTerm1
+logTerm1 logTerm
+logTerm logMultiplier
+logTerm logTerm and logMultiplier
+logMultiplier expression logOperator expression
+logMultiplier not logMultiplier
+logMultiplier [ logExpression1 ]
+logOperator >
+logOperator <
+logOperator ==
+logOperator !=
+logOperator <=
+logOperator >=
+expression1 expression
+expression term1
+expression expression + term1
+expression expression - term1
+term1 term
+term multiplier1
+term term * multiplier1
+term term / multiplier1
+multiplier1 multiplier
+multiplier pr
+multiplier multiplier ^ pr
+pr id
+pr con
+pr ( expression1 )

@@ -1,0 +1,26 @@
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\bin\Debug\TranslatorGUI.exe.config
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\bin\Debug\TranslatorGUI.exe
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\bin\Debug\TranslatorGUI.pdb
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.csprojResolveAssemblyReference.cache
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\MainWindow.baml
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\MainWindow.g.cs
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\App.g.cs
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI_MarkupCompile.cache
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.g.resources
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.Properties.Resources.resources
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.csproj.GenerateResource.Cache
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.exe
+D:\Лабораторные\3 курс\2 семестр\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.pdb
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\bin\Debug\TranslatorGUI.exe.config
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.exe
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.pdb
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\bin\Debug\TranslatorGUI.exe
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\bin\Debug\TranslatorGUI.pdb
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.csprojResolveAssemblyReference.cache
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\MainWindow.baml
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\MainWindow.g.cs
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\App.g.cs
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI_MarkupCompile.cache
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.g.resources
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.Properties.Resources.resources
+E:\diskE\Новая папка\Трансляторы\Трансляторы\TranslatorGUI\TranslatorGUI\obj\Debug\TranslatorGUI.csproj.GenerateResource.Cache

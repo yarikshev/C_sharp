@@ -1,0 +1,45 @@
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\bin\Debug\САПР5.exe.config
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\bin\Debug\САПР5.exe
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\bin\Debug\САПР5.pdb
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.csprojResolveAssemblyReference.cache
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.Form1.resources
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.Properties.Resources.resources
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.csproj.GenerateResource.Cache
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.exe
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.pdb
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.Form2.resources
+c:\documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.Form3.resources
+c:\Documets\visual studio 2013\Projects\САПР5\САПР5\obj\Debug\САПР5.Form4.resources
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\bin\Debug\САПР5.exe.config
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.exe
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.pdb
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.csprojResolveAssemblyReference.cache
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.Form1.resources
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.Form2.resources
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.Form3.resources
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.Properties.Resources.resources
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\obj\Debug\САПР5.csproj.GenerateResource.Cache
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\bin\Debug\САПР5.exe
+C:\Users\Ярик\Desktop\САПР5\САПР5\САПР5\bin\Debug\САПР5.pdb
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\bin\Debug\САПР5.exe.config
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.exe
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.pdb
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\bin\Debug\САПР5.exe
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\bin\Debug\САПР5.pdb
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.csprojResolveAssemblyReference.cache
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Form1.resources
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Form2.resources
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Form3.resources
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Properties.Resources.resources
+C:\Users\Ярик\Desktop\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.csproj.GenerateResource.Cache
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\bin\Debug\САПР5.exe.config
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.exe
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.pdb
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\bin\Debug\САПР5.exe
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\bin\Debug\САПР5.pdb
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.csprojResolveAssemblyReference.cache
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Form1.resources
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Form2.resources
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Form3.resources
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.Properties.Resources.resources
+E:\diskE\robstil10-09\САПР5 - копия (2)\САПР5\САПР5\obj\Debug\САПР5.csproj.GenerateResource.Cache

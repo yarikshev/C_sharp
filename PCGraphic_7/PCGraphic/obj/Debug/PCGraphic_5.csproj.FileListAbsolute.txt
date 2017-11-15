@@ -1,0 +1,13 @@
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\bin\Debug\PCGraphic_5.exe.config
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\bin\Debug\PCGraphic_5.exe
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\bin\Debug\PCGraphic_5.pdb
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\obj\Debug\PCGraphic_5.csprojResolveAssemblyReference.cache
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\obj\Debug\PCGraphic.MainWindow.resources
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\obj\Debug\PCGraphic_5.Properties.Resources.resources
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\obj\Debug\PCGraphic_5.csproj.GenerateResource.Cache
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\obj\Debug\PCGraphic_5.exe
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_5\PCGraphic\obj\Debug\PCGraphic_5.pdb
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_6\PCGraphic\bin\Debug\PCGraphic_5.exe.config
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_6\PCGraphic\obj\Debug\PCGraphic_5.exe
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_6\PCGraphic\obj\Debug\PCGraphic_5.pdb
+C:\Documets\Visual Studio 2013\Projects\PCGraphic_6\PCGraphic\bin\Debug\PCGraphic_6.exe.config
